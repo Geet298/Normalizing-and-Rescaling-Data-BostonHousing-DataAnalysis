@@ -1,4 +1,4 @@
-#In this project, I will be analyzing the data and performing various tasks using these datasets. One of the datasets focuses on normalizing and rescaling data, while the other dataset is known as the Boston Housing dataset. By working on these datasets, I will gain insights and extract valuable information to answer the given questions.
+In this project, I have analyzed the data and performing various tasks using these datasets. One of the datasets focuses on normalizing and rescaling data, while the other dataset is known as the Boston Housing dataset. By working on these datasets, I will gain insights and extract valuable information to answer the given questions.
 
 1. Normalizing and Rescaling Data:
 In this part of the project, the focus is on normalizing and rescaling data. The goal is to standardize the heights of baseball players by finding the mean and standard deviation of the height values. The provided formula `height_s = (height - mean) / std` is used to normalize the heights. The resulting numpy array `height_s` is printed as the output.
